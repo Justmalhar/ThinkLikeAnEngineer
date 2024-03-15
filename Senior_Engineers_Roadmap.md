@@ -1,4 +1,4 @@
-# Senior Engineer Roadmap
+# Senior Engineer Roadmap for 2024
 
 This repo has all the resources you need to reach Senior Software Engineer and beyond!
 
