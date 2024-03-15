@@ -30,19 +30,19 @@ System design is crucial for engineering leaders. It influences the architecture
 
 ## Books on System Design
 
-	• “Designing Data-Intensive Applications” by Martin Kleppmann - A comprehensive guide to building reliable, scalable systems.
-	• “System Design Interview” by Alex Xu - An insider’s guide to acing your system design interview.
-	• “Patterns of Enterprise Application Architecture” by Martin Fowler - A detailed exploration of software architecture patterns.
-	• “Understanding Distributed Systems” by Roberto Vitillo - A primer on the complexities of distributed systems.
-	• “Clean Architecture” by Robert C. Martin - A foundational text on software architecture principles.
+- “Designing Data-Intensive Applications” by Martin Kleppmann - A comprehensive guide to building reliable, scalable systems.
+- “System Design Interview” by Alex Xu - An insider’s guide to acing your system design interview.
+- “Patterns of Enterprise Application Architecture” by Martin Fowler - A detailed exploration of software architecture patterns.
+- “Understanding Distributed Systems” by Roberto Vitillo - A primer on the complexities of distributed systems.
+- “Clean Architecture” by Robert C. Martin - A foundational text on software architecture principles.
 
 ## Must-Read Blogs
 
-	• Meta Engineering - Insights from one of the largest tech ecosystems.
-	• AWS Architecture - Best practices and architectures from AWS experts.
-	• The Netflix Tech Blog - Behind-the-scenes engineering at Netflix.
-	• LinkedIn Engineering - Scaling challenges and solutions at LinkedIn.
-	• Uber Engineering - Innovations and learnings from Uber’s engineering team.
+- Meta Engineering - Insights from one of the largest tech ecosystems.
+- AWS Architecture - Best practices and architectures from AWS experts.
+- The Netflix Tech Blog - Behind-the-scenes engineering at Netflix.
+- LinkedIn Engineering - Scaling challenges and solutions at LinkedIn.
+- Uber Engineering - Innovations and learnings from Uber’s engineering team.
 
 ## Mastering Data Engineering/Data Science
 
@@ -50,21 +50,21 @@ The realm of data engineering and data science is ever-evolving. To lead effecti
 
 ## Top Picks for Data Engineering Books
 
-	• “Fundamentals of Data Engineering” by Matt Housley - Navigate the fundamentals of data engineering with ease.
-	• “Data Engineering with Python” by Paul Crickard - Leverage Python to solve data engineering challenges.
-	• “Spark: The Definitive Guide” by Matei Zaharia - Master Apache Spark for large-scale data processing.
+- “Fundamentals of Data Engineering” by Matt Housley - Navigate the fundamentals of data engineering with ease.
+- “Data Engineering with Python” by Paul Crickard - Leverage Python to solve data engineering challenges.
+- “Spark: The Definitive Guide” by Matei Zaharia - Master Apache Spark for large-scale data processing.
 
 ## Informative Newsletters
 
-	• EcZachly Data Engineering Newsletter - Stay updated with the latest in data engineering.
-	• SeattleDataGuy’s Newsletter - Insights from a data engineering expert.
-	• Data Engineering Weekly - A curated list of the week’s top data engineering news.
+- EcZachly Data Engineering Newsletter - Stay updated with the latest in data engineering.
+- SeattleDataGuy’s Newsletter - Insights from a data engineering expert.
+- Data Engineering Weekly - A curated list of the week’s top data engineering news.
 
 ## Influencers to Follow
 
-	• Zach Wilson on LinkedIn - For cutting-edge data engineering insights.
-	• Benjamin Rogojan on LinkedIn - A wealth of knowledge in data solutions.
-	• Avi Chawla on LinkedIn - Insights into data science and analytics.
+- Zach Wilson on LinkedIn - For cutting-edge data engineering insights.
+- Benjamin Rogojan on LinkedIn - A wealth of knowledge in data solutions.
+- Avi Chawla on LinkedIn - Insights into data science and analytics.
 
 ## Join the Community
 
