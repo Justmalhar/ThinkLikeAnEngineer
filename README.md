@@ -1,22 +1,22 @@
 # Think Like An Engineer
 
-Welcome to Think Like an Engineer - a GitHub repository dedicated to those who aspire to excel in engineering leadership and want to introduce the art of growth hacking through engineering practices while enhancing productivity.
+Welcome to Think Like an Engineer - a GitHub repository dedicated to those who want to succeed in computer science, not be replaced by AI through engineering leadership and introduce the art of growth hacking through engineering practices & enhancing productivity.
 
 My mission is to provide a comprehensive collection of resources, insights, and tips to help you navigate the challenges of engineering leadership and to foster a culture of continuous improvement and innovation.
 
-## What’s Inside?
+### What’s Inside?
 
-Here, you’ll find a curated list of resources including books, newsletters, articles, and more, meticulously selected to guide you on your journey to becoming an exceptional engineering leader.
+Here, you’ll find a curated list of resources including books, newsletters, articles, and more, meticulously collected from my Notion + some popular Githubs to guide you on your journey to becoming an exceptional engineering leader.
 
-## Engineering Leadership
+### Engineering Leadership
 
 Jump into the world of engineering leadership with resources that cover effective management practices, leadership strategies, team building, and more.
 
-## Engineering Insights
+### Engineering Insights
 
 Gain deeper understanding of engineering principles, practices, and trends. From software engineering to system design and data engineering, enrich your knowledge and stay ahead of the curve.
 
-## Productivity Boosters
+### Productivity Boosters
 
 Discover tools, techniques, and strategies to enhance your productivity. Learn how to manage your time effectively, prioritize tasks, and lead your team to achieve more with less.
 
@@ -24,7 +24,7 @@ Discover tools, techniques, and strategies to enhance your productivity. Learn h
 
 Your time is precious, and I aim to make your learning journey as efficient and rewarding as possible.
 
-### Essential Reading for System Design Enthusiasts
+### How to Build Scalable System Designs
 
 Dive into the core of system design with this selection of indispensable books. Each book is a wealth of knowledge, offering insights into designing scalable, efficient, and robust systems.
 
@@ -38,7 +38,7 @@ Dive into the core of system design with this selection of indispensable books. 
 - **"Fundamentals of Software Architecture"** by Neal Ford and Mark Richards: An insightful exploration into the essential foundations of software architecture, providing a strong base for building complex systems.
 - **"Software Architecture: The Hard Parts"** by Neal Ford, Mark Richards, Pramod Sadalage, and Zhamak Dehghani: Navigate through the challenging aspects of software architecture, offering solutions to common, yet complex, problems.
 
-## Must-Read Engineering Blogs
+### Must-Read Engineering Blogs
 
 Enhance your engineering knowledge and stay abreast of the latest trends, technologies, and practices with this carefully selected list of engineering blogs. These platforms offer a treasure trove of insights directly from the engineering teams of leading tech companies around the world.
 
@@ -73,13 +73,13 @@ Enhance your engineering knowledge and stay abreast of the latest trends, techno
 
 The domain of data engineering and data science is ever-evolving. To lead effectively, understanding the data landscape and how to manage it is essential. Explore these resources to enhance your expertise in data engineering and data science.
 
-## Top Picks for Data Engineering Books
+### Top Picks for Data Engineering Books
 
 - “Fundamentals of Data Engineering” by Matt Housley - Navigate the fundamentals of data engineering with ease.
 - “Data Engineering with Python” by Paul Crickard - Leverage Python to solve data engineering challenges.
 - “Spark: The Definitive Guide” by Matei Zaharia - Master Apache Spark for large-scale data processing.
 
-## Informative Newsletters
+### Informative Newsletters
 
 Keep your inbox filled with the latest insights and strategies in system design and engineering with this selection of must-follow newsletters. Whether you're looking to deepen your understanding of complex engineering concepts or stay ahead of the curve with byte-sized wisdom, these newsletters are your gateway to continuous learning.
 
@@ -90,7 +90,7 @@ Keep your inbox filled with the latest insights and strategies in system design 
 - [ByteByteGo](https://blog.bytebytego.com/) - Led by Alex Xu, this platform dives deep into system design, offering insights, tutorials, and case studies to enhance your skills.
 - [System Design Codex](https://newsletter.systemdesigncodex.com/) - Saurabh Dashora curates this comprehensive guide to mastering system design, with a focus on practical advice and actionable tips.
 
-## Influencers to Follow
+### Influencers to Follow
 
 Expand your professional network and enrich your LinkedIn feed by following these influential figures in the world of system design and engineering. From insightful posts to in-depth articles and discussions, connecting with these professionals will keep you at the forefront of industry trends and best practices.
 
