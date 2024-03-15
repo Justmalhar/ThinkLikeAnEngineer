@@ -1,4 +1,4 @@
-# ThinkLikeAnEngineer
+# Think Like An Engineer
 
 Welcome to Think Like an Engineer - a GitHub repository dedicated to those who aspire to excel in engineering leadership and want to gain deeper insights into engineering practices while enhancing productivity.
 
